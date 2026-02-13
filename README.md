@@ -1,0 +1,1 @@
+This is a NEWS APP, Developed using NEWS API.
